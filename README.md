@@ -1,24 +1,19 @@
 ### Waldemar Szemat
 
-**Technology & Innovation Leader** · Santiago, Chile
+**AI Solutions Architect · Fractional Head of AI** · Santiago, Chile · Remote
 
 ---
 
-I build digital solutions that turn technical capabilities into competitive advantages. My work sits at the intersection of business strategy and technical execution — generative AI, product strategy, and digital transformation.
+Most GenAI pilots never make it to production. Getting them there and keeping them running at scale is what I do.
 
-Business administration background combined with a self-directed technology path, backed by multiple credentials and training across cloud, AI, cybersecurity, and agile management.
+As CTO of a healthtech startup, I built a product from zero with generative AI at its core and scaled it to thousands of users through WhatsApp and mobile carriers (VAS). The hard part was never the model. It was everything around it: synthetic content grounded in verified sources, omnichannel automation, computer vision for image-based logging, and an architecture that stayed stable at scale.
 
-#### Focus
+Today I run scoped **POC-to-Production Sprints** for teams whose GenAI project is stuck: I come in, find why it isn't shipping (it's rarely the model), and get it there. Plus advisory on designing scalable AI systems.
 
-- **Generative AI** — Agents, NLP, and intelligent automation applied to real products
-- **Product & Strategy** — Business vision connected to technical execution to scale solutions
-- **Cloud & Infrastructure** — Secure, scalable cloud-native architectures (Azure, AWS, GCP)
-- **Tech Leadership** — High-performance teams with continuous delivery culture
+#### How I work
 
-#### Microsoft Azure & AI
+- **Spec-driven development**: clear specs first, then build, so AI handles the mechanical work and humans make the high-order calls
+- **Multi-agent systems & GenAI in production**: agents, RAG, evals, guardrails. Built for production, not demos
+- **Multi-stack, vendor-agnostic**: Azure AI, Anthropic, LangGraph, Semantic Kernel, OpenAI, plus AWS and GCP. I pick the stack that fits the problem
 
-Certifications, specializations, and training paths across cloud architecture, AI engineering, cybersecurity, and data science — [View profile on Microsoft Learn](https://learn.microsoft.com/en-us/users/wszemat/)
-
----
-
-[szemat.pro](https://szemat.pro) · [LinkedIn](https://www.linkedin.com/in/SzematPro) · [hello@szemat.pro](mailto:hello@szemat.pro)
+I work both sides: the commercial (tech consulting, team management, client-facing) and the technical (engineering, architecture, hands-on in the code). Full-stack engineer, technical lead, then CTO. EN/ES.
