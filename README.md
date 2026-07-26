@@ -17,3 +17,17 @@ Today I run scoped **POC-to-Production Sprints** for teams whose GenAI project i
 - **Multi-stack, vendor-agnostic**: Azure AI, Anthropic, LangGraph, Semantic Kernel, OpenAI, plus AWS and GCP. I pick the stack that fits the problem
 
 I work both sides: the commercial (tech consulting, team management, client-facing) and the technical (engineering, architecture, hands-on in the code). Full-stack engineer, technical lead, then CTO. EN/ES.
+
+---
+
+#### Flagship: AI Agent Eval Harness (healthtech)
+
+A measurement-first, cite-or-refuse conversational health agent for medication adherence, paired with a CI-gated evaluation harness. Trilingual (EN/ES/PT-BR), built and evaluated on 100% synthetic data; a capability and readiness reference, not a medical device.
+
+- **Documentation & governance** (36 ADRs; HIPAA, EU AI Act, NIST AI RMF, ISO/IEC 42001, SOC 2, MITRE ATLAS): [agent-docs.szemat.pro](https://agent-docs.szemat.pro)
+- **Interactive demo**: [agent.szemat.pro](https://agent.szemat.pro)
+- **Public voice demo** (ElevenLabs multilingual TTS, EN/ES/PT-BR): [voice-demo-ai-agent-eval-harness](https://github.com/SzematPro/voice-demo-ai-agent-eval-harness)
+
+#### Elsewhere
+
+[szemat.pro](https://szemat.pro) · [LinkedIn](https://www.linkedin.com/in/szematpro) · [Microsoft Learn](https://learn.microsoft.com/en-us/users/wszemat/) · waldemar@szemat.pro
