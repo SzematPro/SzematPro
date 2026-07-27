@@ -6,9 +6,9 @@
 
 Most GenAI pilots never make it to production. Getting them there and keeping them running at scale is what I do.
 
-As CTO of a healthtech startup, I built a product from zero with generative AI at its core and scaled it to thousands of users through WhatsApp and mobile carriers (VAS). The hard part was never the model. It was everything around it: synthetic content grounded in verified sources, omnichannel automation, computer vision for image-based logging, and an architecture that stayed stable at scale.
+As CTO of a startup in a regulated industry, I built a product from zero with generative AI at its core and scaled it to thousands of users. The hard part was never the model. It was everything around it: the integrations, day-to-day operations, and an architecture that stayed stable at scale.
 
-Today I run scoped **POC-to-Production Sprints** for teams whose GenAI project is stuck: I come in, find why it isn't shipping (it's rarely the model), and get it there. Plus advisory on designing scalable AI systems.
+Today I run scoped **POC-to-Production Sprints** for teams whose GenAI project is stuck, with a focus on regulated industries (finance, insurance, public sector, healthcare): I come in, find why it isn't shipping (it's rarely the model), and get it there. Plus advisory on designing scalable AI systems.
 
 #### How I work
 
@@ -20,13 +20,14 @@ I work both sides: the commercial (tech consulting, team management, client-faci
 
 ---
 
-#### Flagship: AI Agent Eval Harness (healthtech)
+#### Flagship: an evaluated AI agent for regulated industries
 
-A measurement-first, cite-or-refuse conversational health agent for medication adherence, paired with a CI-gated evaluation harness. Trilingual (EN/ES/PT-BR), built and evaluated on 100% synthetic data; a capability and readiness reference, not a medical device.
+A conversational, cite-or-refuse AI agent built for a regulated environment (healthcare as the chosen instance: the highest bar), paired with a **CI-gated evaluation harness**: eight scorers, five deterministic CI gates, three judge-backed. Trilingual (EN/ES/PT-BR), built and evaluated on 100% synthetic data; a capability and readiness reference, not a medical device.
 
-- **Documentation & governance** (36 ADRs; HIPAA, EU AI Act, NIST AI RMF, ISO/IEC 42001, SOC 2, MITRE ATLAS): [agent-docs.szemat.pro](https://agent-docs.szemat.pro)
-- **Interactive demo**: [agent.szemat.pro](https://agent.szemat.pro)
-- **Public voice demo** (ElevenLabs multilingual TTS, EN/ES/PT-BR): [voice-demo-ai-agent-eval-harness](https://github.com/SzematPro/voice-demo-ai-agent-eval-harness)
+- **Full case, method and report card**: [szemat.pro/evidence](https://szemat.pro/evidence)
+- **Documentation & governance** (36 public ADRs; EU AI Act, NIST AI RMF, ISO/IEC 42001, SOC 2, MITRE ATLAS, HIPAA): [agent-docs.szemat.pro](https://agent-docs.szemat.pro)
+- **Live agent** (access key, human-reviewed): [agent.szemat.pro](https://agent.szemat.pro)
+- **Voice demo** (ElevenLabs multilingual TTS, EN/ES/PT-BR): [voice-demo-ai-agent-eval-harness](https://github.com/SzematPro/voice-demo-ai-agent-eval-harness)
 
 #### Elsewhere
 
